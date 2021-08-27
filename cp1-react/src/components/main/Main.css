@@ -1,0 +1,27 @@
+.container-main{
+    display: flex;
+    flex-direction: column;
+    margin: 0 5% 0 5%;
+}
+
+.post_title{
+    color: #262626;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 46px;
+}
+
+.post_excerpt{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.higher_share{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #4d4d4d;
+    font-style: normal;
+}
