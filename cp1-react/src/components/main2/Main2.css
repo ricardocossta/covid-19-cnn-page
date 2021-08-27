@@ -1,0 +1,13 @@
+.post_content{
+
+    margin: 0 5% 0 5%;
+}
+
+
+.logo{
+    float: right;
+    margin: 0;
+    position: static;
+    display: block;
+    width: 10vw;
+}
