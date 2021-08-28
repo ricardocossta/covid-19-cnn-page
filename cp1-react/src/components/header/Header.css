@@ -5,7 +5,9 @@
 
 
 .menu-header{
+    margin-top: 1%;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
     background-color: #000000;
