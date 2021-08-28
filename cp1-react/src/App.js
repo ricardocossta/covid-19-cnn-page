@@ -4,7 +4,7 @@ import './App.css'
 import Main from './components/main/Main'
 import Main2 from './components/main2/Main2'
 
-export default function App() {
+export default ()=> {
 
    return(
       <div className='container'>
