@@ -8,7 +8,7 @@ export default function Header() {
           <div className='header_main'>
               <nav className='content_menu'>
                 <ul className='menu-header'>
-                    <li><a href="#">Nacional</a></li>
+                    <li><a href="#">Nacional </a><div className="live"></div></li>
                     <li><a href="#">Business</a></li>
                     <li><a href="#">Internacional</a></li>
                     <li><a href="#">Saúde</a></li>
