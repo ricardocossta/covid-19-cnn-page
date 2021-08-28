@@ -1,7 +1,7 @@
 .container-main{
     display: flex;
     flex-direction: column;
-    margin: 0 5% 0 5%;
+    margin: 2% 5% 0 5%;
 }
 
 .post_title{
@@ -9,6 +9,7 @@
     font-size: 40px;
     font-weight: 700;
     line-height: 46px;
+    margin-bottom: 2%;
 }
 
 .post_excerpt{
@@ -16,12 +17,16 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
+    padding-bottom: 3%;
 }
 
 .higher_share{
+    justify-content: flex-start;
+    display: flex;
     font-weight: 400;
     font-size: 12px;
     line-height: 16px;
     color: #4d4d4d;
     font-style: normal;
 }
+

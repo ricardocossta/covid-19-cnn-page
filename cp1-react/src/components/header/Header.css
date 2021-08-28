@@ -1,9 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
 .menu-header{
     display: flex;
     justify-content: space-around;
     align-items: center;
     background-color: #000000;
-    color: #ffffff;
     height: 3.4em;
     list-style: none;
+    
+}
+
+ul a{
+    text-decoration: none;
+    color: #ffffff;
 }

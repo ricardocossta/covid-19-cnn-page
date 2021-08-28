@@ -1,13 +1,26 @@
 .post_content{
 
-    margin: 0 5% 0 5%;
+    margin: 0 10% 0 10%;
 }
 
+.container-logo{
+    display: flex;
+    justify-content: flex-end;
+}
 
 .logo{
     float: right;
     margin: 0;
     position: static;
     display: block;
-    width: 10vw;
+    width: 10em;
+}
+
+.post_content p{
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: .01em;
+    color: #262626;
+    font-weight: 300;
+    margin: 2% 0 2% 0;
 }
